@@ -71,7 +71,6 @@ body{
 }
 .first-box{
     text-align: center;
-    padding: ;
 }
 
 .second-box{
@@ -87,5 +86,15 @@ body{
 height: 48px;
 font-weight: 600;
 font-size: 15px;
+}
+
+.second-box-three{
+    display: flex;
+    justify-content: center;
+    margin: 50px 150px;
+}
+
+.third-box-1{
+    margin-left: 98px; 
 }
 
