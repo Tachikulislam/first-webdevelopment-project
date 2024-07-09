@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+    font-family: "Azeret Mono", monospace;
+}
+
+/* banner section style starts hare */
+.banner-container{
+    width: 1440px;
+    height: 652px;
+    margin: 0px auto;
+    background-image: url("/assets/Hero-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 74px;
+}
+.mid-container{
+    width: 240.28px;
+    height: 240px;
+    background-image: url("/assets/Group.png");
+    margin: 0 auto;  
+}
+.heading-section{
+    height: 136px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgb(13, 19, 33);
+}
+.paragraph-section{
+    height: 52px;
+    display: flex;
+    font-size: 16px;
+    padding: 0px 150px;
+    text-align: center;
+    color: rgb(13, 19, 33);
+    margin-bottom: 120px;
+}
+
+.style-btn{
+    width: 208px;
+    height: 66px;
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+}
+.style-btn{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+.btn-primary{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* banner section style ends hare */
+
+
+/* box section hare */
+.box-container{
+    width: 1140px;
+    height: 1395px;
+    border: 2px solid blue;
+    margin: 0px auto;
+}
+.first-box{
+    text-align: center;
+    padding: ;
+}
+
