@@ -74,3 +74,18 @@ body{
     padding: ;
 }
 
+.second-box{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.second-box-one{
+    margin-right: 98px;
+}
+.sec-box-btn{
+    width: 150px;
+height: 48px;
+font-weight: 600;
+font-size: 15px;
+}
+
