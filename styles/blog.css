@@ -67,7 +67,7 @@ body{
 /* box section hare */
 .box-container{
     width: 1140px;
-    height: 1395px;
+    /* height: 1395px; */
     margin: 0px auto;
 }
 .first-box{
@@ -202,5 +202,12 @@ div ul li{
 .footer-side{
     margin-top: 150px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.input-text{
+    width: 400px;
+    border-radius: 15px;
+    border: none;
+    margin-right: 20px;
 }
