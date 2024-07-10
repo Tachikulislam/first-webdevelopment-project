@@ -126,6 +126,12 @@ body{
     border-radius: 16px;
 background: rgba(255, 76, 30, 0.05);
 }
+.dark-1{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    color: rgb(13, 19, 33);
+}
 .div-section-2{
     padding: 20px;
     border-radius: 16px;
