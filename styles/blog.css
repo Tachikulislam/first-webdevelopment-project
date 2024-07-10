@@ -11,9 +11,9 @@ body{
     height: 652px;
     margin: 0px auto;
     background-image: url("/assets/Hero-bg.png");
-    background-position: center;
+    /* background-position: center; */
     background-repeat: no-repeat;
-    background-size: cover;
+    /* background-size: cover; */
     margin-bottom: 74px;
 }
 .mid-container{
