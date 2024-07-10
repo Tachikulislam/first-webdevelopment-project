@@ -19,7 +19,7 @@ body{
 .mid-container{
     width: 240.28px;
     height: 240px;
-    background-image: url("/assets/Group.png");
+    /* background-image: url("/assets/Group.png"); */
     margin: 0 auto;  
 }
 .heading-section{
